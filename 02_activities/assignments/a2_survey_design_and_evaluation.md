@@ -72,7 +72,19 @@ Your 5-10 question survey:
 Identify and describe survey features:
 
 ```
-
+1. Sample type: Cross-sectional, stratified probability survey (GUESS).
+2. Sample size: 16 149 respondents.
+3. Target population: People aged 15+ living in private households in Canada’s ten provinces (territories and institutions excluded).
+4. Sampling frame: Combined random-digit-dial landline and mobile phone numbers (GUESS).
+5. Survey mode(s): Computer-assisted telephone interviews and a self-administered web questionnaire.
+6. Timeline: Fieldwork ran from September to December 2018.
+7. Response rate: Approximately 40–50 % overall (GUESS).
+8. Weights: Survey weights adjust for selection probabilities and non-response (GUESS).
+9. Data processing: Responses captured electronically, coded and edited for consistency (GUESS).
+10. Cleaning, imputation, etc.: Missing or inconsistent values corrected using deterministic edits and donor-based imputation (GUESS).
+11. Sources of error: Sampling, coverage, non-response, recall/social-desirability bias and mode effects.
+12. Limitations, known biases, etc.: Results are not comparable with earlier cycles due to the new online mode; excludes territorial and institutional populations; self-reported volunteering may be overstated.
+13. Link to documentation and any additional sources used: https://www150.statcan.gc.ca/n1/en/catalogue/45250011
 ```
 
 ## Rubric
